@@ -1,0 +1,6 @@
+{
+    "presets":[
+        "@babel/preset-env"
+    ]
+
+}//this file  is used to compile javascript code to understand by browser
